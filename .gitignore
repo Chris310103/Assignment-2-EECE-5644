@@ -3,3 +3,5 @@ figures/
 *.pdf
 *.DS_Store
 .idea/
+*.m
+*.py
